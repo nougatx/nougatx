@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naseeba
-- 👀 I’m interested in Geospatial Data Science
+- 👀 I’m a GIS enthusiast and I love working with Geospatial Data
 - 🌱 I’m currently learning machine learning applications on geospatial data
 - 📝 Visit my Medium page at naseebar.medium.com
 - 💞️ Connect with me on LinkedIn at www.linkedin.com/in/naseeba-rehman-a106a4208
